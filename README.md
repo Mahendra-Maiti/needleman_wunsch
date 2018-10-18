@@ -26,5 +26,5 @@ Anchored alignment of protein sequences in human and fruit fly can be run by add
 
 ` python3 needleman_wunsch.py -q query_sequence_file -r reference_sequence_file  -m matched_regions`
 
-![picture alt](https://github.com/Mahendra-Maiti/needleman_wunsch/blob/master/align_PAX.png "Alignment of PAX protein")
+![picture alt](https://github.com/Mahendra-Maiti/needleman_wunsch/blob/master/anchored_align_HOX.png)
 
